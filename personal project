@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health & Wellness Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#fitness">Fitness Plans</a></li>
+                <li><a href="#nutrition">Meal Guides</a></li>
+                <li><a href="#mental-health">Mental Health</a></li>
+                <li><a href="#success-stories">Success Stories</a></li>
+            </ul>
+        </nav>
+        <h1>Welcome to Your Health & Wellness Journey</h1>
+        <p>Helping you achieve a balanced life through fitness, nutrition, and mental well-being.</p>
+    </header>
+
+    <!-- Fitness Section -->
+    <section id="fitness">
+        <h2>Fitness Plans</h2>
+        <p>Find workout routines tailored to your fitness level and goals.</p>
+        <ul>
+            <li>Beginner Workouts</li>
+            <li>Intermediate Routines</li>
+            <li>Advanced Training</li>
+        </ul>
+    </section>
+
+    <!-- Nutrition Section -->
+    <section id="nutrition">
+        <h2>Meal Guides</h2>
+        <p>Explore nutritious meal plans that complement your fitness goals.</p>
+        <ul>
+            <li>Weight Loss Meals</li>
+            <li>Balanced Diet Recipes</li>
+            <li>Vegan & Vegetarian Options</li>
+        </ul>
+    </section>
+
+    <!-- Mental Health Section -->
+    <section id="mental-health">
+        <h2>Mental Health Resources</h2>
+        <p>Manage stress and improve mental clarity with our resources.</p>
+        <ul>
+            <li>Stress Management Tips</li>
+            <li>Meditation & Mindfulness</li>
+            <li>Support Groups</li>
+        </ul>
+    </section>
+
+    <!-- Success Stories Section -->
+    <section id="success-stories">
+        <h2>Success Stories</h2>
+        <p>Be inspired by others who have transformed their lives.</p>
+        <article>
+            <h3>John's Transformation</h3>
+            <p>John lost 20kg in 6 months through our fitness and meal plans.</p>
+        </article>
+        <article>
+            <h3>Sarah's Journey</h3>
+            <p>Sarah learned to manage her stress through our mental health programs.</p>
+        </article>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Health & Wellness. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
